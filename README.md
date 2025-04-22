@@ -1,4 +1,4 @@
-## olá! Sou o Victor Barcelos.
+## Olá! Sou o Victor Barcelos.
 - 🔭 Atualmente nao estou trabalhando
 - 🌱 Estudo linguegagens C e C++
 - 😄 Pronouns: ele/dele
