@@ -2,7 +2,7 @@
 - 🔭 Atualmente não estou trabalhando ainda porém procuro estagios.
 - 🌱 Estudo linguegagens C, C++ e python inicialmente.
 - 😄 Pronomes: ele/dele
-- ⚡ curiosidades: Gosto muito de carros e sou muito disposto a aprender sobre coisas novas dentro da area de TI
+- ⚡ Curiosidades: Gosto muito de carros e sou muito disposto a aprender sobre coisas novas dentro da area de TI
 
 
 ![barcelos00's GitHub stats](https://github-readme-stats.vercel.app/api?username=barcelos00&theme=dark&show_icons=true)
