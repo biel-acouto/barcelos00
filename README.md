@@ -1,6 +1,6 @@
 ## Olá! Sou o Victor Barcelos.
 - 🔭 Atualmente não estou trabalhando ainda porém procuro estagios.
-- 🌱 Estudo linguegagens C, C++ e python inicialmente.
+- 🌱 Estudo linguagens C, C++ e python inicialmente.
 - ⚡ Curiosidades: Gosto muito de carros e sou muito disposto a aprender sobre coisas novas dentro da area de TI
 ##
 
